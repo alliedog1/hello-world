@@ -1,2 +1,4 @@
 # hello-world
-first GitHub project
+Hello humans,
+
+I am a beautiful, white dog.
